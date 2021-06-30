@@ -5,5 +5,5 @@ An android app for kinds to read and listen Bangla poems.
 https://play.google.com/store/apps/details?id=kobitar.asor
 
 # Contact
-To get access into source code, send mail at technovalleyit@gmail.com
+To get access into source code, send mail at parvej35@gmail.com
 
